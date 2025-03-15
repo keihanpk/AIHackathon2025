@@ -4,7 +4,7 @@ import os
 
 # Hardcoded dataset directory path
 data_dir = os.path.expanduser(
-    "~/.cache/kagglehub/datasets/alikalwar/heart-attack-risk-prediction-cleaned-dataset/versions/1/heart-attack-risk-prediction-dataset.csv"
+    "~/.cache/kagglehub/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/versions/2/heart_attack_prediction_dataset.csv"
 )
 
 
