@@ -1,10 +1,10 @@
-import kagglehub
 import pandas as pd
 import os
 
+
 # Hardcoded dataset directory path
 data_dir = os.path.expanduser(
-    "~/.cache/kagglehub/datasets/alikalwar/heart-attack-risk-prediction-cleaned-dataset/versions/1/heart_attack_risk.csv"
+    "~/.cache/kagglehub/datasets/alikalwar/heart-attack-risk-prediction-cleaned-dataset/versions/1/heart-attack-risk-prediction-dataset.csv"
 )
 
 
