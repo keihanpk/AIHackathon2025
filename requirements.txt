@@ -1,3 +1,5 @@
 kagglehub
 pandas
 torch
+scikit-learn
+numpy
